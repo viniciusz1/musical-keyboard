@@ -57,3 +57,43 @@ function B2() {
     const synth = new Tone.Synth().toMaster()
     synth.triggerAttackRelease('B5', '8n')
 }
+function CS(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('C#4', '8n')
+}
+function DS(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('D#4', '8n')
+}
+function FS(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('F#4', '8n')
+}
+function GS(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('G#4', '8n')
+}
+function AS(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('A#4', '8n')
+}
+function CS2(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('C#5', '8n')
+}
+function DS2(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('D#5', '8n')
+}
+function FS2(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('F#5', '8n')
+}
+function GS2(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('G#5', '8n')
+}
+function AS2(){
+    const synth = new Tone.Synth().toMaster()
+    synth.triggerAttackRelease('A#5', '8n')
+}
