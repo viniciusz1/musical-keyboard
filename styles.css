@@ -8,7 +8,12 @@ body {
     margin: 0;
     background: #222
 }
-
+.letra{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-bottom: 2%;
+}
 ul {
     height: 18.875em;
     width: 62.2em;
@@ -49,6 +54,7 @@ ul .white:active {
 }
 
 .black {
+    color: white;
     height: 8em;
     width: 2em;
     margin: 0 0 0 -1em;
